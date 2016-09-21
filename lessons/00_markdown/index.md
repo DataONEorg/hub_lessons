@@ -228,3 +228,28 @@ Then the column resumes after the split.
 .one-fourth[
 **It works!**
 ]
+
+---
+
+# Adding images
+
+.two-third[
+
+Every lesson has an `images/` folder, and images should go in it.
+
+The syntax to add an image is:
+
+~~~ md
+![Image title](image/file_name.png)
+~~~
+
+Note that the images will be resized to not be larger than the slide.
+
+]
+
+.one-third[
+![This is the image alt. text](images/how_to_use_images.gif)
+]
+
+
+----
