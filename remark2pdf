@@ -5,7 +5,7 @@
 #  2. a screen shot of the first page of the lesson
 #
 # It requires that you have a copy of decktape installed in
-# the bin folder of your home directory. See: 
+# the bin folder of your home directory. See:
 #   https://github.com/astefanutti/decktape
 #
 # The script assumes that jekyll is running locally and the slides
