@@ -16,6 +16,10 @@ You will find a series of resources that help users better manage their data, br
 ### How did you decide what information to include in the Community Education Resources?
 The education resources were initially developed in 2011-2012 and went through a process of peer review and revision in 2015. In 2016, the  resources were moved to an open git repository (GitHub) to increase community engagement around the materials, and also to build interest in shared maintenance and ongoing sustainability. The decisions and process are described more fully in the publication [Using Peer Review to Support Development of Community Resources for Research Data Management][MnmgtPub].
 
+### How does the content available here differ from what is available on the DataONE website?
+
+Content originally developed for this site (circa 2018) can be found on the DataONE website. As xxxxx
+
 ### How do I access and view the materials associated with each topic?
 
 Each suites of materials can be accessed by clicking on its associated tile on the [Community Education Resources Home page][website]. Please note that your browser needs to allow Javascript, and that Firefox, Chrome, and Safari browsers should be up-to-date. 
